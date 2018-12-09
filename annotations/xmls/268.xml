@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>268.jpg</filename>
+	<path>/home/dell/Object Detection/env/image/268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mountain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>13</ymin>
+			<xmax>186</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>5</ymin>
+			<xmax>140</xmax>
+			<ymax>23</ymax>
+		</bndbox>
+	</object>
+</annotation>

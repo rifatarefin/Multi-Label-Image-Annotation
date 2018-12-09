@@ -1,0 +1,209 @@
+item {
+  id: 1
+  name: 'antelope'
+}
+
+item {
+  id: 2
+  name: 'bear'
+}
+
+item {
+  id: 3
+  name: 'bird'
+}
+
+item {
+  id: 4
+  name: 'boat'
+}
+
+item {
+  id: 5
+  name: 'bridge'
+}
+
+item {
+  id: 6
+  name: 'bush'
+}
+
+item {
+  id: 7
+  name: 'church'
+}
+
+item {
+  id: 8
+  name: 'cloud'
+}
+
+item {
+  id: 9
+  name: 'container'
+}
+
+item {
+  id: 10
+  name: 'cow'
+}
+
+item {
+  id: 11
+  name: 'dock'
+}
+
+item {
+  id: 12
+  name: 'field'
+}
+
+item {
+  id: 13
+  name: 'fish'
+}
+
+item {
+  id: 14
+  name: 'flag'
+}
+
+item {
+  id: 15
+  name: 'flower'
+}
+
+item {
+  id: 16
+  name: 'fox'
+}
+
+item {
+  id: 17
+  name: 'goat'
+}
+
+item {
+  id: 18
+  name: 'grass'
+}
+
+item {
+  id: 19
+  name: 'house'
+}
+
+item {
+  id: 20
+  name: 'ice'
+}
+
+item {
+  id: 21
+  name: 'mountain'
+}
+
+item {
+  id: 22
+  name: 'person'
+}
+
+item {
+  id: 23
+  name: 'plane'
+}
+
+item {
+  id: 24
+  name: 'raft'
+}
+
+item {
+  id: 25
+  name: 'road'
+}
+
+item {
+  id: 26
+  name: 'rock'
+}
+
+item {
+  id: 27
+  name: 'sailboat'
+}
+
+item {
+  id: 28
+  name: 'sheep'
+}
+
+item {
+  id: 29
+  name: 'ship'
+}
+
+item {
+  id: 30
+  name: 'sky'
+}
+
+item {
+  id: 31
+  name: 'snow'
+}
+
+item {
+  id: 32
+  name: 'stone'
+}
+
+item {
+  id: 33
+  name: 'sun'
+}
+
+item {
+  id: 34
+  name: 'sunset'
+}
+
+item {
+  id: 35
+  name: 'train'
+}
+
+item {
+  id: 36
+  name: 'tree'
+}
+
+item {
+  id: 37
+  name: 'truck'
+}
+
+item {
+  id: 38
+  name: 'water'
+}
+
+item {
+  id: 39
+  name: 'waterfall'
+}
+
+item {
+  id: 40
+  name: 'window'
+}
+
+item {
+  id: 41
+  name: 'wood'
+}
+
+item {
+  id: 42
+  name: 'zebra'
+}

@@ -1,0 +1,1 @@
+test_images/IMG_20180705_210340.jpg: person, antelope, sailboat, 
